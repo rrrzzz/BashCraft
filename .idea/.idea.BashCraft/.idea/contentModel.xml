@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nekko\.Rider2019.3\config\consoles\ide" t="IncludeRecursive" />
+    <e p="C:\Users\nekko\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nekko\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BashCraft.-2010034766.00" t="ExcludeRecursive" />
+    <e p="Z:\Repos\UnityProjects\BashCraft" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Data" t="Include">
+            <e p="DataProvder.cs" t="Include" />
+            <e p="GameDataTypes" t="Include">
+              <e p="Buff.cs" t="Include" />
+              <e p="buffStat.cs" t="Include" />
+              <e p="BuffType.cs" t="Include" />
+              <e p="GameSettings.cs" t="Include" />
+              <e p="Stat.cs" t="Include" />
+              <e p="StatType.cs" t="Include" />
+            </e>
+            <e p="JsonDataObject.cs" t="Include" />
+            <e p="JsonDataTypes" t="Include">
+              <e p="BuffData.cs" t="Include" />
+              <e p="BuffStatData.cs" t="Include" />
+              <e p="SettingsData.cs" t="Include" />
+              <e p="StatData.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Factories" t="Include">
+            <e p="BuffRepositoryFactory.cs" t="Include" />
+            <e p="IBuffRepositoryFactory.cs" t="Include" />
+            <e p="IPlayerControllerFactory.cs" t="Include" />
+            <e p="IPlayerUiControllerFactory.cs" t="Include" />
+            <e p="IUiElementsGeneratorFactory.cs" t="Include" />
+            <e p="IWorldObjectControllerFactory.cs" t="Include" />
+            <e p="PlayerControllerFactory.cs" t="Include" />
+            <e p="PlayerUiControllerFactory.cs" t="Include" />
+            <e p="UiGeneratorFactory.cs" t="Include" />
+            <e p="WorldObjectControllerFactory.cs" t="Include" />
+          </e>
+          <e p="GameLogic" t="Include">
+            <e p="BuffsRepository.cs" t="Include" />
+            <e p="FxManager.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="IBuffsRepository.cs" t="Include" />
+            <e p="IPlayerObject.cs" t="Include" />
+            <e p="PlayerBuffAddedEventArgs.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerObject.cs" t="Include" />
+            <e p="PlayerStatChangedEventArgs.cs" t="Include" />
+          </e>
+          <e p="Intro.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="IPlayerUi.cs" t="Include" />
+            <e p="IUiElementsGenerator.cs" t="Include" />
+            <e p="PlayerCharacteristicUi.cs" t="Include" />
+            <e p="PlayerUi.cs" t="Include" />
+            <e p="PlayerUiController.cs" t="Include" />
+            <e p="UiElementsGenerator.cs" t="Include" />
+          </e>
+          <e p="Utility" t="Include">
+            <e p="Helpers.cs" t="Include" />
+            <e p="IResourcesRepository.cs" t="Include" />
+            <e p="ResourcesRepository.cs" t="Include" />
+            <e p="SpriteMover.cs" t="Include" />
+          </e>
+          <e p="World" t="Include">
+            <e p="IPlayerGameObject.cs" t="Include" />
+            <e p="IWorldObjectsGenerator.cs" t="Include" />
+            <e p="PlayerGameObject.cs" t="Include" />
+            <e p="WorldObjectsController.cs" t="Include" />
+            <e p="WorldObjectsGenerator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="data.txt" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="GrassWave.shader" t="Include" />
+          <e p="PulseShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="BashCraft.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
